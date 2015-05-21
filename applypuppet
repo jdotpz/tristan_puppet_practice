@@ -1,0 +1,1 @@
+puppet apply --debug --modulepath=/opt/tristan_puppet_practice/puppet/modules/:/etc/puppet/modules/ /opt/tristan_puppet_practice/puppet/manifests/default.pp
