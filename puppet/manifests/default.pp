@@ -1,3 +1,4 @@
 node webserver {
-	class { 'apache2' }
+	class { 'apache2': }
+	class { 'tristanapp': }
 }
